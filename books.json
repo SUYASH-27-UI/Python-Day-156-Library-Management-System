@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": "B101",
+        "title": "Python Programming",
+        "author": "John Smith",
+        "issued": false
+    },
+    {
+        "id": "B102",
+        "title": "C Programming",
+        "author": "Dennis Ritchie",
+        "issued": true
+    },
+    {
+        "id": "B103",
+        "title": "Java Basics",
+        "author": "James Gosling",
+        "issued": false
+    }
+]
